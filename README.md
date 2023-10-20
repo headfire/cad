@@ -16,8 +16,8 @@
 
 ## Контакты
 
-Cайт проекта [https://headfire.github.io/desk](https://headfire.github.io/cad)
+Cайт проекта [https://headfire.github.io/cad](https://headfire.github.io/cad)
 
-Репозиторий проекта [https://github.com/headfire/desk](https://github.com/headfire/cad)
+Репозиторий проекта [https://github.com/headfire/cad](https://github.com/headfire/cad)
 
 E-mail автора: [headfire@yandex.ru](mailto:headfire@yandex.ru)
